@@ -3,6 +3,8 @@
 # Set Up in a Local environment
 ```
  git clone https://jackdrakes.github.io/ml
+ cd ml
+ npm install && npm start
 ```
 
 
