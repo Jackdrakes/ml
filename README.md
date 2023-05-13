@@ -10,3 +10,4 @@
 
 ## Here is the live  Demo
 [Click here](https://aesthetic-babka-a52c1e.netlify.app/)
+It takes some time to load Please wait patiently for a while
